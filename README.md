@@ -127,7 +127,7 @@ src/
 
 ## 📜 License
 
-MIT © [Your Name]
+MIT © [Vinay Jagannavar]
 
 
 ---
